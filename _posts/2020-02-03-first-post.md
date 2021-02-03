@@ -1,6 +1,6 @@
 ---
 title: "init"
-date: 2020-02-03 22:26:28 -0400
+date: 2020-02-03 22:26:28
 categories: blog
 ---
 
