@@ -1,7 +1,8 @@
 ---
 title: "[CSS] checkbox 디자인 변경"
 date: 2021-02-04 16:26:28
-categories: css html
+tags: css html
+categories: css
 ---
 
 ## CSS checkbox 디자인
