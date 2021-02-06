@@ -1,7 +1,9 @@
 ---
 title: "[Swfit]UpDownGame"
 date: 2021-02-05 10:56:28
-categories: swift ios
+
+categories: swfit
+tags: swift ios
 ---
 
 [이강의](https://www.youtube.com/watch?v=aVpSUBlZPxU&list=PLz8NH7YHUj_ZF2oja5rP4Sow5KK1zf2yk)를 기반으로 작성된 문서입니다
