@@ -1,5 +1,5 @@
 ---
-title: "[Swfit]UpDownGame"
+title: "[Swfit] UpDownGame"
 date: 2021-02-05 10:56:28
 
 categories: swfit
