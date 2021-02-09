@@ -31,7 +31,8 @@ masthead_title           : # overrides the website title displayed in the masthe
 words_per_minute         : 200
 comments:
   provider               : "disqus"
-    shortname            : prefer2
+    disqus:
+    shortname            : "https-prefer2-github-io"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
