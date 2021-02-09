@@ -98,4 +98,4 @@ function initMap() {
 
 다중 마커, 마커 이미지 바꾸기, 클러스터 등의 예시들은 공식 문서에 매우 잘 나와있다
 
-[Simple Markers | Maps JavaScript API | Google Developers](https://developers.google.com/maps/documentation/javascript/examples/marker-simple?hl=ko)
+[Maps JavaScript API  Google Developers](https://developers.google.com/maps/documentation/javascript/examples/marker-simple?hl=ko)
