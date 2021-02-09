@@ -5,8 +5,6 @@ tags: api js
 categories: TIL
 ---
 
-[이문서](https://developers.google.com/maps/documentation/javascript/adding-a-google-map?hl=ko)를 기반으로 작성되었습니다.
-
 # 구글맵 API 사용하기
 
 구글맵 api는 현재 첫 가입자에 한하여 12개월동안 무료(300달러 지급)로 사용이 가능하다.
@@ -99,3 +97,4 @@ function initMap() {
 다중 마커, 마커 이미지 바꾸기, 클러스터 등의 예시들은 공식 문서에 매우 잘 나와있다
 
 [Maps JavaScript API  Google Developers](https://developers.google.com/maps/documentation/javascript/examples/marker-simple?hl=ko)
+[이문서](https://developers.google.com/maps/documentation/javascript/adding-a-google-map?hl=ko)를 기반으로 작성되었습니다.
