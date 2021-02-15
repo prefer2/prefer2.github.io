@@ -8,7 +8,6 @@ categories: TIL
 # 구글맵 API 사용하기
 
 구글맵 api는 현재 첫 가입자에 한하여 12개월동안 무료(300달러 지급)로 사용이 가능하다.
-
 (이후에도 개인 사용자가 사용할 정도는 무료로 사용이 가능한듯 하다. 혹시 몰라 [가격 측정표](https://cloud.google.com/maps-platform/pricing/?hl=ko&_ga=2.144176309.1250766310.1612838039-2145650309.1611557598))
 
 사용하기 어려울 것 같지만 과정도 거의 없고 document도 정리가 잘 되어 있어 어렵지 않다
@@ -26,7 +25,6 @@ categories: TIL
 상단의 버튼을 누르면 어떤 프로젝트로 할 수 있는지 선택할 수 있다
 
 기존의 My First Project를 사용해도 되고, 새 프로젝트를 생성하여 시작해도 된다
-
 (프로젝트는 최대 9개까지 무료로 이용할 수 있다고 한다)
 
 이후 메뉴에서 API 및 서비스 → 라이브러리를 선택한다
@@ -34,9 +32,7 @@ categories: TIL
 <img width="1076" alt="스크린샷 2021-02-09 오후 12 42 54" src="https://user-images.githubusercontent.com/67692759/107314368-cde85380-6ad7-11eb-8fbc-63fb82ec9ea4.png">
 
 여기서 사용하고자 하는 서비스를 선택하면 된다
-
 데이터베이스에서 위도 경도를 받아 표시하고자 하기 때문에 Maps JavaScript API를 선택하였다
-
 사용 버튼을 누르고 API 및 서비스의 사용자 인증 정보에 들어가 새 API키를 받는다
 
 ### 3. 코드 가져오기
@@ -64,9 +60,7 @@ categories: TIL
 </html>
 ```
 
-html에 위 코드를 복사해 붙여넣는다
-
-YOUR_API_KEY부분에 이전에 받은 자신의 API 키를 붙여넣은다
+html에 위 코드를 복사해 붙여넣어 YOUR_API_KEY부분에 이전에 받은 자신의 API 키를 붙여넣은다
 
 이후 초기 설정, 마크 넣기 등은 JavaScript로 만들면 된다
 
@@ -93,7 +87,6 @@ function initMap() {
 <img width="854" alt="스크린샷 2021-02-09 오후 12 57 42" src="https://user-images.githubusercontent.com/67692759/107314408-e5274100-6ad7-11eb-893c-488fff7db803.png">
 
 참고로 위도와 경도는 구글맵에서 오른쪽 마우스 버튼을 누르면 나온다
-
 다중 마커, 마커 이미지 바꾸기, 클러스터 등의 예시들은 공식 문서에 매우 잘 나와있다
 
 [Maps JavaScript API  Google Developers](https://developers.google.com/maps/documentation/javascript/examples/marker-simple?hl=ko)
