@@ -1,7 +1,7 @@
 ---
-title: "[Swfit] 기본 문법"
+title: "[Swift] 기본 문법"
 date: 2021-02-15 17:26:28
-tags: swift
+tags: swift ios
 categories: swift
 ---
 <p align="center"><img src="https://user-images.githubusercontent.com/67692759/107920618-9afaff80-6fb0-11eb-92b6-04db3e92c64b.png"  width="400" height="400"></p>
