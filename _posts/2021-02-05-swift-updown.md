@@ -1,5 +1,5 @@
 ---
-title: "[Swfit] UpDownGame"
+title: "[Swift] UpDownGame"
 date: 2021-02-05 10:56:28
 
 categories: swift
