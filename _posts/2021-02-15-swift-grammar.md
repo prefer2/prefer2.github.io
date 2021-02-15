@@ -20,7 +20,7 @@ categories: swift
 
 ### 데이터 타입
 
-Swift의 도느 데이터 타입 이름은 첫 글자가 대문자로 시작하는 대문자 카멜케이스를 사용한다
+Swift의 데이터 타입 이름은 첫 글자가 대문자로 시작하는 대문자 카멜케이스를 사용한다
 
 (Int, Unt, Bool, Character, String...)
 
