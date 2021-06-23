@@ -23,13 +23,13 @@ tags: algorithm c++
 
 문제를 처음 접했을때는 stack에 괄호를 넣는 식으로 풀어야 하나 고민했다. 풀다보니 중위 표현식이라 숫자와 연산자만 잘 구별하면 사람이 생각하는 순서대로(괄호 값을 계산한 순서대로) 넣으면 된다는 것을 알 수 있었다.
 
-처음에는 순열을 사용할 생각을 못하고 경우의 수가 6개밖에 없으니 그냥 모든 조합을 만들어서 풀었다(tmp=['+' , '-', '*'], tmp2=['+', '*', '-'] ...) 풀고보니 다른 사람들은 `next_permutation`을 사용하는 것을 알 수 있었다. 연산자들의 순서 조합을 구하기 위해서 오랫만에 next_permutation을 사용하였다. 
+처음에는 순열을 사용할 생각을 못하고 경우의 수가 6개밖에 없으니 그냥 모든 조합을 만들어서 풀었다([tmp='+' , '-', '*'],  tmp2=['+', '*', '-' ...]) 풀고보니 다른 사람들은 `next_permutation`을 사용하는 것을 알 수 있었다. 연산자들의 순서 조합을 구하기 위해서 오랫만에 next_permutation을 사용하였다. 
 
 ### next_permutaion
 
 `bool next_permutation (BidirectionalIterator first, BidirectionalIterator last);`
 
-<algorithm> 헤더에 있는 함수
+algorithm 헤더에 있는 함수
 
 - 오름차순으로 정렬된 값을 가진 컨테이너로만 사용가능하다
 - default로 operator < 를 사용해 순열을 생성합니다. 즉 **오름차순으로 순열을 생성한다**
