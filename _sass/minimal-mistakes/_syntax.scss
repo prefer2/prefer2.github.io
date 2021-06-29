@@ -7,12 +7,11 @@ figure.highlight {
   position: relative;
   margin-bottom: 1em;
   background: $base00;
-  color: $base05;
+  color: $danger-color;
   font-family: $monospace;
   font-size: $type-size-6;
   line-height: 1.8;
   border-radius: $border-radius;
-  color: #EB5757;
 
   > pre,
   pre.highlight {
